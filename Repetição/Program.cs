@@ -159,13 +159,38 @@ class Program
 
         // 3) VALIDAÇÃO DE SENHA(WHILE)
 
-        Console.WriteLine("Digite a senha: ");
-        string senha = Console.ReadLine();
+        // string senha = "";
 
-        while(senha != "1234")
+        // while (senha != "1234")
+        // {
+        //     Console.Write("Digite a senha: ");
+        //     senha = Console.ReadLine();
+
+        //     if (senha != "1234")
+        //     {
+        //         Console.WriteLine("Senha incorreta. Tente novamente.");
+        //     }
+        // }
+
+        // Console.WriteLine("Acesso permitido!");
+
+        // 4) MENU COM REPETIÇÃO(DO WHILE)
+
+        int opcao;
+
+        do
         {
-            Console.WriteLine("Digite a senha: ");
-            string senha = Console.ReadLine();
-        }
+            Console.WriteLine("1 -> Mostrar mensagem");
+            Console.WriteLine("2 -> Sair");
+            Console.Write("Selecione uma opção: ");
+            opcao = int.Parse(Console.ReadLine());
+            
+            if(opcao < 1 || opcao > 2)
+            {
+                Console.WriteLine("Digite uma opção válida!");
+            }
+        } while(opcao != 2);
+        
+        Console.WriteLine("Até a próxima!");
     }
 }

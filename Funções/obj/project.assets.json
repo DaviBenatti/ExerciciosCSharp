@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fic\\Desktop\\ExerciciosCSharp\\Repetição\\Repetição.csproj",
-      "projectName": "Repetição",
-      "projectPath": "C:\\Users\\fic\\Desktop\\ExerciciosCSharp\\Repetição\\Repetição.csproj",
+      "projectUniqueName": "C:\\Users\\fic\\Desktop\\ExerciciosCSharp\\Funções\\Funções.csproj",
+      "projectName": "Funções",
+      "projectPath": "C:\\Users\\fic\\Desktop\\ExerciciosCSharp\\Funções\\Funções.csproj",
       "packagesPath": "C:\\Users\\fic\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fic\\Desktop\\ExerciciosCSharp\\Repetição\\obj\\",
+      "outputPath": "C:\\Users\\fic\\Desktop\\ExerciciosCSharp\\Funções\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\fic\\AppData\\Roaming\\NuGet\\NuGet.Config"
