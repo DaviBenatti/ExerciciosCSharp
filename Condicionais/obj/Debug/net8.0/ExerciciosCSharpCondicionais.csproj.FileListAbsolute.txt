@@ -1,0 +1,15 @@
+C:\Users\fic\Desktop\ExerciciosCSharpCondicionais\bin\Debug\net8.0\ExerciciosCSharpCondicionais.exe
+C:\Users\fic\Desktop\ExerciciosCSharpCondicionais\bin\Debug\net8.0\ExerciciosCSharpCondicionais.deps.json
+C:\Users\fic\Desktop\ExerciciosCSharpCondicionais\bin\Debug\net8.0\ExerciciosCSharpCondicionais.runtimeconfig.json
+C:\Users\fic\Desktop\ExerciciosCSharpCondicionais\bin\Debug\net8.0\ExerciciosCSharpCondicionais.dll
+C:\Users\fic\Desktop\ExerciciosCSharpCondicionais\bin\Debug\net8.0\ExerciciosCSharpCondicionais.pdb
+C:\Users\fic\Desktop\ExerciciosCSharpCondicionais\obj\Debug\net8.0\ExerciciosCSharpCondicionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fic\Desktop\ExerciciosCSharpCondicionais\obj\Debug\net8.0\ExerciciosCSharpCondicionais.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\ExerciciosCSharpCondicionais\obj\Debug\net8.0\ExerciciosCSharpCondicionais.AssemblyInfo.cs
+C:\Users\fic\Desktop\ExerciciosCSharpCondicionais\obj\Debug\net8.0\ExerciciosCSharpCondicionais.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\ExerciciosCSharpCondicionais\obj\Debug\net8.0\ExerciciosCSharpCondicionais.dll
+C:\Users\fic\Desktop\ExerciciosCSharpCondicionais\obj\Debug\net8.0\refint\ExerciciosCSharpCondicionais.dll
+C:\Users\fic\Desktop\ExerciciosCSharpCondicionais\obj\Debug\net8.0\ExerciciosCSharpCondicionais.pdb
+C:\Users\fic\Desktop\ExerciciosCSharpCondicionais\obj\Debug\net8.0\ExerciciosCSharpCondicionais.genruntimeconfig.cache
+C:\Users\fic\Desktop\ExerciciosCSharpCondicionais\obj\Debug\net8.0\ref\ExerciciosCSharpCondicionais.dll
+C:\Users\fic\Desktop\ExerciciosCSharpCondicionais\obj\Debug\net8.0\ExerciciosCSharpCondicionais.sourcelink.json
