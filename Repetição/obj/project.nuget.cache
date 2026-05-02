@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "SBO9vYpWoBMt6St2sKhW3o6uxbutRAimJPI6EJnEjjpqti4YkfQMfav93YMEpK6Ee4lQSSN2UpXdJGf6tFjfYQ==",
+  "dgSpecHash": "v8WKrZB2AoM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\fic\\Desktop\\ExerciciosCSharp\\Repetição\\Repetição.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\davil\\OneDrive\\Desktop\\ExerciciosCSharp\\Repetição\\Repetição.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\davil\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.26\\microsoft.netcore.app.ref.8.0.26.nupkg.sha512",
+    "C:\\Users\\davil\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.26\\microsoft.windowsdesktop.app.ref.8.0.26.nupkg.sha512",
+    "C:\\Users\\davil\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.26\\microsoft.aspnetcore.app.ref.8.0.26.nupkg.sha512",
+    "C:\\Users\\davil\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.26\\microsoft.netcore.app.host.win-x64.8.0.26.nupkg.sha512"
+  ],
   "logs": []
 }
