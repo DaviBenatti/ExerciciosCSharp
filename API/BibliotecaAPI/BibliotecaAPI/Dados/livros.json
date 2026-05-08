@@ -1,0 +1,16 @@
+[
+  {
+    "Id": 1,
+    "Titulo": "Fogo \u0026 Sangue",
+    "Autor": "George R. R. Martin",
+    "anoPublicacao": 2018,
+    "Disponivel": true
+  },
+  {
+    "Id": 2,
+    "Titulo": "O Senhor dos Aneis - A Sociedade do Anel",
+    "Autor": "J. R. R. Tolkien",
+    "anoPublicacao": 1954,
+    "Disponivel": true
+  }
+]
