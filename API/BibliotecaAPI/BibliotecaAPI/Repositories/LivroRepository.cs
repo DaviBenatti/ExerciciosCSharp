@@ -80,5 +80,49 @@ namespace BibliotecaAPI.Repositories
 
             return livro;
         }
+
+        public bool Atualizar(int id, Livro livroAtualizado)
+        {
+            // Carregar a lista atual de livros
+            List<Livro> livros = Listar();
+
+            Livro? livro = livros.FirstOrDefault(l => l.Id == id);
+
+            if(livro == null)
+            {
+                return false;
+            }
+
+            // Atualiza os dados do livro encontrado
+            livro.Titulo = livroAtualizado.Titulo;
+            livro.Autor = livroAtualizado.Autor;
+            livro.anoPublicacao = livroAtualizado.anoPublicacao;
+            livro.Disponivel = livroAtualizado.Disponivel;
+
+            // Salvar as alterações
+            Salvar(livros);
+
+            // Retorna true indicando que atualizou com sucesso
+            return true;
+        }
+        public bool remover(int id)
+        {
+            // Carregar a lista atual de livros
+            List<Livro> livros = Listar();
+
+            Livro? livro = livros.FirstOrDefault(l => l.Id == id);
+
+            if (livro == null)
+            {
+                return false;
+            }
+
+            // Se encontrar o livro, remove ele da lista
+            livros.Remove(livro);
+
+            Salvar(livros);
+
+            return true;
+        }
     }
 }

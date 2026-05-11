@@ -9,5 +9,8 @@ namespace BibliotecaAPI.Interfaces
 
         Livro Adicionar(Livro livro);
 
+        bool Atualizar(int id, Livro livro);
+
+        bool remover(int id);
     }
 }

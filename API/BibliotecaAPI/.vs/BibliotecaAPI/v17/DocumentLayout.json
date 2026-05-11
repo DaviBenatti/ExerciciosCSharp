@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\fic\\Desktop\\ExerciciosCSharp\\API\\BibliotecaAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{97D4E916-F2BF-4291-877C-3749746306D6}|BibliotecaAPI\\BibliotecaAPI.csproj|c:\\users\\fic\\desktop\\exercicioscsharp\\api\\bibliotecaapi\\bibliotecaapi\\dados\\livros.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{97D4E916-F2BF-4291-877C-3749746306D6}|BibliotecaAPI\\BibliotecaAPI.csproj|solutionrelative:bibliotecaapi\\dados\\livros.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{97D4E916-F2BF-4291-877C-3749746306D6}|BibliotecaAPI\\BibliotecaAPI.csproj|c:\\users\\fic\\desktop\\exercicioscsharp\\api\\bibliotecaapi\\bibliotecaapi\\controllers\\livrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97D4E916-F2BF-4291-877C-3749746306D6}|BibliotecaAPI\\BibliotecaAPI.csproj|solutionrelative:bibliotecaapi\\controllers\\livrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{97D4E916-F2BF-4291-877C-3749746306D6}|BibliotecaAPI\\BibliotecaAPI.csproj|c:\\users\\fic\\desktop\\exercicioscsharp\\api\\bibliotecaapi\\bibliotecaapi\\repositories\\livrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97D4E916-F2BF-4291-877C-3749746306D6}|BibliotecaAPI\\BibliotecaAPI.csproj|solutionrelative:bibliotecaapi\\repositories\\livrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97D4E916-F2BF-4291-877C-3749746306D6}|BibliotecaAPI\\BibliotecaAPI.csproj|c:\\users\\fic\\desktop\\exercicioscsharp\\api\\bibliotecaapi\\bibliotecaapi\\controllers\\livrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97D4E916-F2BF-4291-877C-3749746306D6}|BibliotecaAPI\\BibliotecaAPI.csproj|solutionrelative:bibliotecaapi\\controllers\\livrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{97D4E916-F2BF-4291-877C-3749746306D6}|BibliotecaAPI\\BibliotecaAPI.csproj|c:\\users\\fic\\desktop\\exercicioscsharp\\api\\bibliotecaapi\\bibliotecaapi\\services\\livroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,6 +17,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{97D4E916-F2BF-4291-877C-3749746306D6}|BibliotecaAPI\\BibliotecaAPI.csproj|c:\\users\\fic\\desktop\\exercicioscsharp\\api\\bibliotecaapi\\bibliotecaapi\\interfaces\\ilivrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97D4E916-F2BF-4291-877C-3749746306D6}|BibliotecaAPI\\BibliotecaAPI.csproj|solutionrelative:bibliotecaapi\\interfaces\\ilivrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97D4E916-F2BF-4291-877C-3749746306D6}|BibliotecaAPI\\BibliotecaAPI.csproj|c:\\users\\fic\\desktop\\exercicioscsharp\\api\\bibliotecaapi\\bibliotecaapi\\dados\\livros.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{97D4E916-F2BF-4291-877C-3749746306D6}|BibliotecaAPI\\BibliotecaAPI.csproj|solutionrelative:bibliotecaapi\\dados\\livros.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{97D4E916-F2BF-4291-877C-3749746306D6}|BibliotecaAPI\\BibliotecaAPI.csproj|c:\\users\\fic\\desktop\\exercicioscsharp\\api\\bibliotecaapi\\bibliotecaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
@@ -50,31 +50,30 @@
               "RelativeToolTip": "BibliotecaAPI\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-08T18:05:26.782Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-08T18:05:26.782Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "LivroController.cs",
               "DocumentMoniker": "C:\\Users\\fic\\Desktop\\ExerciciosCSharp\\API\\BibliotecaAPI\\BibliotecaAPI\\Controllers\\LivroController.cs",
               "RelativeDocumentMoniker": "BibliotecaAPI\\Controllers\\LivroController.cs",
               "ToolTip": "C:\\Users\\fic\\Desktop\\ExerciciosCSharp\\API\\BibliotecaAPI\\BibliotecaAPI\\Controllers\\LivroController.cs",
               "RelativeToolTip": "BibliotecaAPI\\Controllers\\LivroController.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAADwvzQAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAADcAAAAAAAAAAADwv1YAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-08T17:58:50.714Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "LivroService.cs",
               "DocumentMoniker": "C:\\Users\\fic\\Desktop\\ExerciciosCSharp\\API\\BibliotecaAPI\\BibliotecaAPI\\Services\\LivroService.cs",
               "RelativeDocumentMoniker": "BibliotecaAPI\\Services\\LivroService.cs",
               "ToolTip": "C:\\Users\\fic\\Desktop\\ExerciciosCSharp\\API\\BibliotecaAPI\\BibliotecaAPI\\Services\\LivroService.cs",
               "RelativeToolTip": "BibliotecaAPI\\Services\\LivroService.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCkAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAUwEIAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-08T17:51:54.527Z",
               "EditorCaption": ""
@@ -87,33 +86,33 @@
               "RelativeDocumentMoniker": "BibliotecaAPI\\Repositories\\LivroRepository.cs",
               "ToolTip": "C:\\Users\\fic\\Desktop\\ExerciciosCSharp\\API\\BibliotecaAPI\\BibliotecaAPI\\Repositories\\LivroRepository.cs",
               "RelativeToolTip": "BibliotecaAPI\\Repositories\\LivroRepository.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAADgv0sAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAUwGsAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-08T17:28:29.12Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "ILivroRepository.cs",
               "DocumentMoniker": "C:\\Users\\fic\\Desktop\\ExerciciosCSharp\\API\\BibliotecaAPI\\BibliotecaAPI\\Interfaces\\ILivroRepository.cs",
               "RelativeDocumentMoniker": "BibliotecaAPI\\Interfaces\\ILivroRepository.cs",
               "ToolTip": "C:\\Users\\fic\\Desktop\\ExerciciosCSharp\\API\\BibliotecaAPI\\BibliotecaAPI\\Interfaces\\ILivroRepository.cs",
               "RelativeToolTip": "BibliotecaAPI\\Interfaces\\ILivroRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-08T17:23:34.766Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "livros.json",
               "DocumentMoniker": "C:\\Users\\fic\\Desktop\\ExerciciosCSharp\\API\\BibliotecaAPI\\BibliotecaAPI\\Dados\\livros.json",
               "RelativeDocumentMoniker": "BibliotecaAPI\\Dados\\livros.json",
               "ToolTip": "C:\\Users\\fic\\Desktop\\ExerciciosCSharp\\API\\BibliotecaAPI\\BibliotecaAPI\\Dados\\livros.json",
               "RelativeToolTip": "BibliotecaAPI\\Dados\\livros.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-05-08T17:18:46.653Z",
               "EditorCaption": ""
@@ -128,8 +127,7 @@
               "RelativeToolTip": "BibliotecaAPI\\Domains\\Livro.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-08T17:11:04.944Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-08T17:11:04.944Z"
             }
           ]
         }
